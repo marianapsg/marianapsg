@@ -28,7 +28,7 @@
 
 # 👩‍💻 Sobre mim 
 
-Sou apaixonada por design, experiências digitais e tecnologia criativa. Atualmente exploro projetos voltados para branding, marketplaces, identidade visual e inteligência artificial aplicada ao design. Gosto de criar experiências modernas, organizadas e visualmente marcantes, unindo estética minimalista com inovação digital.
+Sou apaixonada por design, experiências digitais e tecnologia. Atualmente atuo com marketplaces em plataformas como Mercado Livre e Magazine Luiza.
 
 ```bash
 > Designer focada em tecnologia visual
